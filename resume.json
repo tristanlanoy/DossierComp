@@ -105,26 +105,8 @@
         "institution": "Lycée Henri Wallon Valenciennes",
         "area": "",
         "studyType": "BTS SIO SISR",
-        "startDate": "",
-        "endDate": "",
-        "score": "",
-        "courses": []
-      },
-      {
-        "institution": "University of Cambridge",
-        "area": "Langue anglaise et littérature, général",
-        "studyType": "Cambridge English Certificate (CEC)",
-        "startDate": "",
-        "endDate": "",
-        "score": "",
-        "courses": []
-      },
-      {
-        "institution": "Université d'Artois",
-        "area": "Informatique",
-        "studyType": "Licence",
-        "startDate": "",
-        "endDate": "",
+        "startDate": "2018-09",
+        "endDate": "2020-07",
         "score": "",
         "courses": []
       },
@@ -132,8 +114,8 @@
         "institution": "CESI",
         "area": "",
         "studyType": "Manager en systèmes d'information option cloud et virtualisation",
-        "startDate": "",
-        "endDate": "",
+        "startDate": "2020-10",
+        "endDate": "2023-10",
         "score": "",
         "courses": []
       },
@@ -141,8 +123,8 @@
         "institution": "Lycée Alfred Kastler",
         "area": "Sciences",
         "studyType": "Baccalauréat",
-        "startDate": "",
-        "endDate": "",
+        "startDate": "2015-09-01",
+        "endDate": "2017-07-01",
         "score": "Mention Bien",
         "courses": []
       }
