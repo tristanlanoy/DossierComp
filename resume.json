@@ -1,0 +1,376 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Tristan Lanoy",
+      "label": "Ingénieur Cloud DevOps",
+      "image": "",
+      "email": "tlanoy@outlook.com",
+      "phone": "",
+      "url": "",
+      "summary": "- Ingénieur Cloud / DevOps chez Capgemini\n- Intéressé par les technologies cloud et cloud-native, le mouvement DevOps ainsi que le monde des télécom\n- Titulaire d'un bac+5 obtenu au CESI de Lille\n- Le moyen le plus simple de me contacter est via MP Linkedin\n\nhttps://github.com/tristanlanoy",
+      "location": {
+        "countryCode": "FR",
+        "address": "France"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "tristanlanoy",
+          "url": "https://www.linkedin.com/in/tristanlanoy/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Capgemini",
+        "position": "Ingénieur Cloud DevOps",
+        "startDate": "2023-11-30",
+        "endDate": "",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/capgemini/",
+        "location": "Lille, Hauts-de-France, France"
+      },
+      {
+        "name": "MSI Nord",
+        "position": "Ingénieur réseau et systèmes",
+        "startDate": "2022-06-30",
+        "endDate": "2023-10-31",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/msi-micro-et-services-informatiques/",
+        "location": "Lille, Hauts-de-France, France"
+      },
+      {
+        "name": "MSI Nord",
+        "position": "Administrateur réseau et systèmes",
+        "startDate": "2021-06-30",
+        "endDate": "2022-06-30",
+        "highlights": [],
+        "summary": "- Déploiement et amélioration backbone opérateur\n\to  Mise en place routage dynamique interne (OSPF, BGP)\n\to  Définition des politiques de routage externe\n\to  Déploiement liens fibre noire et DWDM\n\to  Déploiement routeurs, switchs\n\to  Supervision\n- Solutions cloud Microsoft\n- Solutions Windows Server\n- Infrastructure as Code (IaC)\n- Automatisation\n- Virtualisation \n- Support niveau 2/3",
+        "url": "https://www.linkedin.com/company/msi-micro-et-services-informatiques/",
+        "location": "Lille, Hauts-de-France, France"
+      },
+      {
+        "name": "EURO INFO",
+        "position": "Administrateur réseau et systèmes",
+        "startDate": "2020-08-31",
+        "endDate": "2021-06-30",
+        "highlights": [],
+        "summary": "- Architecture, installation et accompagnement sur la partie réseau, système et sécurité.\n- Maintien en conditions opérationnelles des SI clients\n- Mise en place de solutions de haute disponibilité\n- Architecture et mise en place de solutions de continuité d'activité\n- Architecture et mise en place de solutions de cloud hybride\n- Réalisation de POC pour valider les nouvelles solutions techniques\n- Gestion d'incidents\n- Rédaction : Rapports, Devis, Documentation, ...",
+        "url": "https://www.linkedin.com/company/euro-information/",
+        "location": "Valenciennes, Hauts-de-France, France"
+      },
+      {
+        "name": "EURO INFO",
+        "position": "Technicien réseau",
+        "startDate": "2018-12-31",
+        "endDate": "2020-08-31",
+        "highlights": [],
+        "summary": "- Virtualisation (Hyper-V, vSphere)\n- Office 365 (Exchange Online, Azure AD, ...)\n- Supervision (Zabbix, PRTG, EON)\n- Windows server (Active Directory, Exchange, RDS, ...)\n- Réseau (Vpn S2S, Vlan, Firewalls, DNS, ...)\n- Scripting (Powershell, Batch)\n- Serveurs HP (iLO, SSA)\n- Sauvegardes (Acronis, Veeam,...)",
+        "url": "https://www.linkedin.com/company/euro-information/",
+        "location": "Valenciennes, France"
+      },
+      {
+        "name": "L’univers NOZ",
+        "position": "Employé de magasin",
+        "startDate": "2018-08-31",
+        "endDate": "2018-08-31",
+        "highlights": [],
+        "url": "https://www.linkedin.com/company/lunivers-noz/",
+        "location": "Anzin"
+      },
+      {
+        "name": "Collège Voltaire Lourches",
+        "position": "AED TICE",
+        "startDate": "2018-06-30",
+        "endDate": "2018-07-31",
+        "highlights": [],
+        "summary": "Gestion et remise en état du parc informatique d'un collège. \n-Virtualisation (Hyper-V) \n-Supervision (Observium) \n-Sauvegardes \n-Inventaire (GLPI/OCS) \n-Sécurité \n-Extranet (OwnCloud)\n-Maintenance",
+        "url": "",
+        "location": "Lourches"
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Maison des lycéens et des étudiants du lycée Wallon à Valenciennes",
+        "position": "Président d’association",
+        "startDate": "2018-10-31",
+        "endDate": "2019-09-30",
+        "summary": "Gestion de l'association (+300 membres) et de son conseil d'administration (12 personnes).\nOrganisation des projets\nCommunication avec le lycée (administration, professeurs, ...)\nCommunication avec les entreprises partenaires\nGestion du budget (+ 15 000€)\nDéveloppement d'un logiciel de gestion, mise en place d'Office 365 (Exchange Online, SharePoint)",
+        "highlights": [],
+        "url": ""
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lycée Henri Wallon Valenciennes",
+        "area": "",
+        "studyType": "BTS SIO SISR",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "University of Cambridge",
+        "area": "Langue anglaise et littérature, général",
+        "studyType": "Cambridge English Certificate (CEC)",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "Université d'Artois",
+        "area": "Informatique",
+        "studyType": "Licence",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "CESI",
+        "area": "",
+        "studyType": "Manager en systèmes d'information option cloud et virtualisation",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "Lycée Alfred Kastler",
+        "area": "Sciences",
+        "studyType": "Baccalauréat",
+        "startDate": "",
+        "endDate": "",
+        "score": "Mention Bien",
+        "courses": []
+      }
+    ],
+    "awards": [],
+    "certificates": [
+      {
+        "name": "Microsoft Certified: Azure Fundamentals",
+        "issuer": "Microsoft",
+        "startDate": "2021-06-30",
+        "url": "https://www.credly.com/badges/4f9a956e-3259-4e26-b1a2-506838dfa510?source=linked_in_profile"
+      },
+      {
+        "name": "Microsoft 365 Certified: Fundamentals",
+        "issuer": "Microsoft",
+        "startDate": "2021-06-30",
+        "url": "https://www.credly.com/badges/6eb58d0f-612f-4f4f-8032-84b27ff27b06?source=linked_in_profile"
+      },
+      {
+        "name": "Microsoft Certified: Azure AI Fundamentals",
+        "issuer": "Microsoft",
+        "startDate": "2021-06-30",
+        "url": "https://www.credly.com/badges/d9637fda-95db-4d87-ace7-f43b38bae95f?source=linked_in_profile"
+      },
+      {
+        "name": "NSE 1 Network Security Associate",
+        "issuer": "Fortinet",
+        "endDate": "2023-08-31",
+        "startDate": "2021-08-31"
+      },
+      {
+        "name": "3CX Basic Certified Engineer v16",
+        "issuer": "3CX",
+        "startDate": "2021-08-31"
+      },
+      {
+        "name": "NSE 2 Network Security Associate",
+        "issuer": "Fortinet",
+        "endDate": "2023-08-31",
+        "startDate": "2021-08-31"
+      },
+      {
+        "name": "Microsoft Certified: Azure Data Fundamentals",
+        "issuer": "Microsoft",
+        "startDate": "2021-06-30",
+        "url": "https://www.credly.com/badges/9ea9dab3-8f96-43c8-8313-9cb2e36b7112?source=linked_in_profile"
+      },
+      {
+        "name": "PSC 1",
+        "issuer": "SDIS 59",
+        "startDate": "2021-11-30"
+      },
+      {
+        "name": "VISP Alphalink",
+        "issuer": "Groupe Alphalink ",
+        "startDate": "2022-05-31"
+      },
+      {
+        "name": "Certified Stormshield Network Administrator",
+        "issuer": "Stormshield",
+        "endDate": "2025-10-31",
+        "startDate": "2022-09-30"
+      }
+    ],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Observabilité",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Terraform",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Kubernetes",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "DevOps",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Linux",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Exchange",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Windows Server",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Google Cloud Platform (GCP)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Réseau privé virtuel (VPN)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Cloud Computing",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Outlook",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Commutation de réseaux locaux",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft 365",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "VMware vSphere",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Gestion des incidents",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Administration des serveurs",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Active Directory",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Amazon Web Services",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Téléphonie",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Azure",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Firewalls",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Office 365",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Ansible",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Infrastructure VMware",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "IT Operations",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Word",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Anglais",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Administration réseau",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Hyper-V",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [
+      {
+        "language": "fr",
+        "fluency": "Native Speaker"
+      }
+    ],
+    "interests": [],
+    "references": [
+      {
+        "name": "Antonin Michelotti",
+        "reference": "Tristan sait répondre aux besoin des différents clients, s’attache à appliquer les bonnes pratiques et est capable de dépasser l’aspect technique afin de répondre au mieux à la demande client."
+      }
+    ],
+    "projects": [],
+    "meta": {
+      "version": "v1.0.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+  }
