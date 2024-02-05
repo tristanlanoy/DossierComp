@@ -30,7 +30,7 @@ jobs:
     - name: "📂 Production artifacts"
       uses: actions/upload-artifact@v3
       with:
-        name: index
+        name: github-pages
         path: index.html
     
     - name: Setup Pages
