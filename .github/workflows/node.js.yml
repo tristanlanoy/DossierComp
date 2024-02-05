@@ -21,14 +21,14 @@ jobs:
 
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - run: npm install jsonresume-theme-elegant
     - run: npm install -g resume-cli
     - run: resume validate
     - run: resume export --theme elegant --format html index.html
 
     - name: "📂 Production artifacts"
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: github-pages
         path: index.html
