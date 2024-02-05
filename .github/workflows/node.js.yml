@@ -17,7 +17,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - run: npm install -g jsonresume-theme-elegant
+    - run: npm install jsonresume-theme-elegant
     - run: npm install -g resume-cli
     - run: resume validate
     - run: resume export --theme elegant --format html index.html
