@@ -23,10 +23,11 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - run: npm install jsonresume-theme-elegant
+    - run: npm install jsonresume-theme-github
     - run: npm install -g resume-cli
     - run: resume validate
     - run: mkdir site
-    - run: resume export --theme elegant --format html ./site/index.html
+    - run: resume export --theme github --format html ./site/index.html
 
     - name: "📂 Production artifacts"
       uses: actions/upload-artifact@v4
