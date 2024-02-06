@@ -25,13 +25,14 @@ jobs:
     - run: npm install jsonresume-theme-elegant
     - run: npm install -g resume-cli
     - run: resume validate
-    - run: resume export --theme elegant --format html index.html
+    - run: mkdir site
+    - run: resume export --theme elegant --format html ./site/index.html
 
     - name: "📂 Production artifacts"
       uses: actions/upload-artifact@v4
       with:
         name: index
-        path: index.html
+        path: ./site
     
     - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
