@@ -39,7 +39,11 @@
         "Automatisation (Terraform, Python, Ansible), CI/CD (Gitlab), Kubernetes",
         "Amélioration backbone opérateur :\n- Mise en place IGP (OSPF)\n- Remplacement de routeurs\n- Ajout de PoP et DC, mise en place de liens DWDM\n- Ajout d'un nouveau transitaire",
         " Ajout d'une porte de collecte opérateur :\n-Suivi du projet de bout en bout\n- Définition des besoins techniques\n-Installation du matériel opérateur\n-Configuration coeur de réseau\n-Tests de fonctionnements\n-Configuration du monitoring\n-Livraison du premier client",
-        "Mise en place d'un système IPAM (Netbox) :"
+        "Mise en place d'un système IPAM (Netbox) :\n-Provisioning de l'infrastructure en IaC\n-Installation de l'application sous forme de conteneurs\n-Import des données\n-Rédaction de procédures et formations des équipes",
+        "Automatisation du déploiement de routeurs clients :\n- Lecture des données depuis IPAM via API REST\n- Configuration des routeurs avec Ansible\n- Génération de la documentation avec Python",
+        "Mise en place d'une base de connaissance :\n-Force de proposition sur le projet\n-Configuration de la solution sur plateforme Kubernetes\n-Import des procédures existantes via API\n-Rédaction des procédures réseaux pour le run et le support",
+        "Poc de solutions de supervision réseaux :\n-Solutions testées : Stack prometheus, PRTG, LibreNMS\n-Configuration des solutions\n-Configuration des équipements réseau et du protocole SNMP",
+        "Système de sauvegarde de configurations réseaux :\n-Ecriture des playbooks Ansible\n-Utilisation d'une pipeline de CI pour exécuter le playbook\n-Utilisation de GIT pour stocker et comparer les configurations"
       ],
         "url": "https://www.linkedin.com/company/msi-micro-et-services-informatiques/",
         "location": "Lille, Hauts-de-France, France"
