@@ -44,10 +44,7 @@
         "position": "Administrateur réseau et systèmes",
         "startDate": "2021-06-30",
         "endDate": "2022-06-30",
-        "highlights": [
-        "Automatisation (Terraform, Python, Ansible), CI/CD (Gitlab), Kubernetes",
-        "Amélioration backbone opérateur : - Mise en place IGP (OSPF)\n- Remplacement de routeurs\n- Ajout de PoP et DC, mise en place de liens DWDM\n- Ajout d'un nouveau transitaire"
-        ],
+        "highlights": [],
         "summary": "- Déploiement et amélioration backbone opérateur\n\to  Mise en place routage dynamique interne (OSPF, BGP)\n\to  Définition des politiques de routage externe\n\to  Déploiement liens fibre noire et DWDM\n\to  Déploiement routeurs, switchs\n\to  Supervision\n- Solutions cloud Microsoft\n- Solutions Windows Server\n- Infrastructure as Code (IaC)\n- Automatisation\n- Virtualisation \n- Support niveau 2/3",
         "url": "https://www.linkedin.com/company/msi-micro-et-services-informatiques/",
         "location": "Lille, Hauts-de-France, France"
